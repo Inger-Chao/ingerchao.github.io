@@ -6,8 +6,8 @@ email:
   url: mailto:ingerchao@outlook.com
   text: ingerchao@outlook.com
 homepage:
-  url: http://www.ingernotes.cn/
-  text: ingernotes.cn
+  url: http://www.inger.fun/
+  text: inger.fun
 ---
 
 # **赵 琦**
@@ -63,7 +63,7 @@ Supported arguments:
 - 对主题源 php 文件进行了部分修改；
 - 在 Ubuntu 服务器中对网站进行部署；
 
-### **[锚杆支护设计及自动绘图系统](https://www.ingernotes.cn/prjcad-c-system-objectarx/)** `2019.10-2020.2`
+### **[锚杆支护设计及自动绘图系统](https://www.inger.fun/prjcad-c-system-objectarx/)** `2019.10-2020.2`
 
 `C++, AutoCAD`
 

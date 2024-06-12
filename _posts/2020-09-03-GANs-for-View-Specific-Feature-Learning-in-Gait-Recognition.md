@@ -36,7 +36,7 @@ description: 利用 GAN 完成特定角度下的步态识别任务
 
 ### 1. Introduction
 
-![gan-gait-recognition](file:///Users/inger/blog/ingernotes.cn/assets/images/paper/903-gan-gait-recognition.png?lastModify=1638363774
+![gan-gait-recognition](http://inger.fun/assets/images/paper/903-gan-gait-recognition.png?lastModify=1638363774
 
 1. View-Transform Layer: 从一个视图转换到另一个视图；
 2. 对改进的GANs结构进行像素级损失和多任务对抗性损失训练。

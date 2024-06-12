@@ -1,4 +1,4 @@
-# ingernotes.cn
+# inger.fun
 :blush: inger notes about cs, writing, etc.
 
 theme support by [sergiokopplin/indigo](https://github.com/sergiokopplin/indigo).

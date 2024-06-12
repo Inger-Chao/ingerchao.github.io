@@ -11,7 +11,7 @@ author: ingerchao
 
 
 
- [在服务器虚拟机上无法使用 GPU 资源](https://www.ingernotes.cn/linux-pytorch/)，运维说可能是 pass through 的透传问题，一周多时间并没有什么好的解决方案，但物理机上可用，故在物理机中配置 pytorch 环境。系统为 Centos8
+ [在服务器虚拟机上无法使用 GPU 资源](https://www.inger.fun/linux-pytorch/)，运维说可能是 pass through 的透传问题，一周多时间并没有什么好的解决方案，但物理机上可用，故在物理机中配置 pytorch 环境。系统为 Centos8
 
 
 
