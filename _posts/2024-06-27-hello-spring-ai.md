@@ -32,6 +32,24 @@ tag:
 
 ![image-20240627202914281](./../assets/images/program/backend/spring-ai-alibaba.png)
 
+上图为通过静态页面对话，其他接口：
+
+- /ai/audio/speech：文本生成.wav 语音文件
+- /ai/audio/transcription: 实时语音识别
+- /ai/example：对话（tell me a joke）
+- /ai/stream: 批量文本（请告诉我西红柿牛腩怎么做？）生成内容看起来并不是很能用，有待提高
+- /ai/output: 输出演员的电影
+- /ai/prompt-tmpl: prompt 优化后产生的结果
+- /ai/stuff: 问答
+- /ai/roles：问答
+- /ai/img: prompt 生成图像，结果容易报错
+
+```bash
+2024-06-28T00:02:29.007+08:00  WARN 9378 --- [tongyi-example] [nio-8396-exec-5] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.context.request.async.AsyncRequestNotUsableException: ServletOutputStream failed to write: java.io.IOException: Broken pipe]
+```
+
+
+
 ---
 Reference:
 
