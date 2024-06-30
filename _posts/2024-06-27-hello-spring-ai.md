@@ -48,6 +48,28 @@ tag:
 2024-06-28T00:02:29.007+08:00  WARN 9378 --- [tongyi-example] [nio-8396-exec-5] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.context.request.async.AsyncRequestNotUsableException: ServletOutputStream failed to write: java.io.IOException: Broken pipe]
 ```
 
+#### 额度说明
+
+免费额度：接口调用量
+
+免费时间：一个月
+
+| 模型类别        | 模型名称          | 最近使用时间    | 免费额度(剩余量/总量) | 最近到期免费额度                        |
+| :-------------- | :---------------- | :-------------- | :-------------------- | :-------------------------------------- |
+| 通义千问        | qwen-turbo        | 2024-06-28 9时  | 993626/1000000        | 额度：993626/1000000 有效期：2024-07-27 |
+| 通义万相        | wanx-v1           | 2024-06-28 0时  | 496/500               | 额度：496/500 有效期：2024-12-24        |
+| Sambert语音合成 | sambert-zhichu-v1 | 2024-06-27 23时 | 29668/30000           | 额度：29668/30000 有效期：2024-07-01    |
+
+
+
+### 3. CentOS 部署
+
+```bash
+ mvn clean install -Dpmd.skip=true -Dcheckstyle.skip=true
+```
+
+
+
 
 
 ---
