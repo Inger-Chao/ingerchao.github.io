@@ -22,9 +22,30 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
+## 工作经历
+
+### 腾讯会议产品部 `2021.6-2021.9`
+
+```
+平台研发组实习生
+```
+
+- 跨平台编译、部署问题处理；
+- Cpp17特性预研；
+
+### 顺丰同城科技 `2022.7 - 至今`
+
+```
+后端研发工程师
+```
+
+- 智慧供应链结算中心
+- 月结平台（香港区）
+- ERP底盘项目
+
 ## 教育经历
 
-### **西安科技大学** `2019.9 - 今`
+### **西安科技大学** `2019.9 - 2022.7`
 
 ```
 西安
@@ -103,14 +124,14 @@ Supported arguments:
 
 * ### CJAM: Convolutional Neural Network Joint Attention Mechanism in Gait Recognition `IEICE Transcation on Information and System 已发表`
 
-* ### Sewer Pipe Defects Assessment based on Automated Pipe Calibration in Single Image `投稿中`
+* ### Sewer Pipe Defects Assessment based on Automated Pipe Calibration in Single Image `Tunnelling and Underground Space Technology 已发表`
 
 ## 获奖经历
 
 - 华北五省（市、自治区）及港澳台大学生计算机应用大赛本科组二等奖 `北京, 2017` 
 - 第七届蓝桥杯 Java B 组省赛三等奖  `山西, 2016` 
 - 本科期间获得单项奖学金 2 次，综合素质奖学金 1 次 
-- 硕士期间获得学业奖学金 1 次
+- 硕士期间获得学业奖学金 3 次
 
 ---
 
